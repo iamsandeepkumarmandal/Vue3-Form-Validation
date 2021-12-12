@@ -1,11 +1,12 @@
 import { createRouter, createWebHashHistory, RouteRecordRaw } from "vue-router";
-import Home from "../views/Home.vue";
+// import Home from "../views/Home.vue";
+import CreateEmployee from "../views/CreateEmployee.vue";
 
 const routes: Array<RouteRecordRaw> = [
   {
     path: "/",
     name: "Home",
-    component: Home,
+    component: CreateEmployee,
   },
   {
     path: "/about",
