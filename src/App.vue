@@ -1,9 +1,11 @@
 <template>
-  <div id="nav">
+  <!-- <div id="nav">
     <router-link to="/">Form Validation</router-link> |
     <router-link to="/about">About</router-link>
+  </div> -->
+  <div class="mt-5">
+    <router-view />
   </div>
-  <router-view />
 </template>
 
 <style lang="scss">
