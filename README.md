@@ -1,7 +1,8 @@
 # Vue3 with typescript 
 ## Form Validation in Vue3 with vuelidate library
 
-### Node Version Used: v14.17.3
+#### Node Version Used: v14.17.3
+#### Library Used for the validation: Vuelidate 2
 
 ## Project setup
 ```
