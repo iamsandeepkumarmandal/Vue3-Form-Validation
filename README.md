@@ -29,4 +29,4 @@ yarn lint
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
 ### Vuelidate Library Reference
-[Reference to Vuelidate Docs -> Click here]https://vuelidate-next.netlify.app/
+Reference to Vuelidate Docs -> [Click here]https://vuelidate-next.netlify.app/
